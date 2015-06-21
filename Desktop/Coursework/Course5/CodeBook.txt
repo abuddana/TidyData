@@ -1,0 +1,69 @@
+Columns	Description
+Activity	"An activity which is one of (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) "
+fBodyAccJerk-mean()-X	Mean of all mean measurements of FFT body acceleration jerk signals from Accelerometer in X direction
+fBodyAccJerk-mean()-Y	Mean of all mean measurements of FFT body acceleration jerk signals from Accelerometer in Y direction
+fBodyAccJerk-mean()-Z	Mean of all mean measurements of FFT body acceleration jerk signals from Accelerometer in Z direction
+fBodyAccJerk-std()-X	Mean of all  Standard Deviation measurements of FFT body acceleration jerk signals from Accelerometer in X direction
+fBodyAccJerk-std()-Y	Mean of all  Standard Deviation measurements of FFT body acceleration jerk signals from Accelerometer in Y direction
+fBodyAccJerk-std()-Z	Mean of all  Standard Deviation measurements of FFT body acceleration jerk signals from Accelerometer in Z direction
+fBodyAccMag-mean()	Mean of all mean measurements of FFT body acceleration magnitude signals from Accelerometer 
+fBodyAccMag-std()	Mean of all  Standard Deviation measurements of FFT body acceleration magnitude signals from Accelerometer 
+fBodyAcc-mean()-X	Mean of all mean measurements of FFT body acceleration signals from Accelerometer in X direction
+fBodyAcc-mean()-Y	Mean of all mean measurements of FFT body acceleration signals from Accelerometer in Y direction
+fBodyAcc-mean()-Z	Mean of all mean measurements of FFT body acceleration signals from Accelerometer in Z direction
+fBodyAcc-std()-X	Mean of all  Standard Deviation measurements of FFT body acceleration signals from Accelerometer in X direction
+fBodyAcc-std()-Y	Mean of all  Standard Deviation measurements of FFT body acceleration signals from Accelerometer in Y direction
+fBodyAcc-std()-Z	Mean of all  Standard Deviation measurements of FFT body acceleration  signals from Accelerometer in Z direction
+fBodyBodyAccJerkMag-mean()	Mean of all mean measurements of FFT body acceleration magnitude and jerksignals from Accelerometer 
+fBodyBodyAccJerkMag-std()	Mean of all  Standard Deviation measurements of FFT body acceleration magnitude and jerk signals from Accelerometer 
+fBodyBodyGyroJerkMag-mean()	Mean of all mean measurements of FFT body acceleration magnitude and jerksignals from Gyrometer 
+fBodyBodyGyroJerkMag-std()	Mean of all  Standard Deviation measurements of FFT body acceleration magnitude and jerk signals from Gyrometer 
+fBodyBodyGyroMag-mean()	Mean of all mean measurements of FFT body acceleration magnitude signals from Gyrometer 
+fBodyBodyGyroMag-std()	Mean of all  Standard Deviation measurements of FFT body acceleration magnitude signals from Gyrometer 
+fBodyGyro-mean()-X	Mean of all mean measurements of FFT body acceleration signals from Gyrometer in X direction
+fBodyGyro-mean()-Y	Mean of all mean measurements of FFT body acceleration signals from Gyrometer in Y direction
+fBodyGyro-mean()-Z	Mean of all mean measurements of FFT body acceleration signals from Gyrometer in Z direction
+fBodyGyro-std()-X	Mean of all  Standard Deviation measurements of FFT body acceleration signals from Gyrometer in X direction
+fBodyGyro-std()-Y	Mean of all  Standard Deviation measurements of FFT body acceleration signals from Gyrometer in Y direction
+fBodyGyro-std()-Z	Mean of all  Standard Deviation measurements of FFT body acceleration  signals from Gyrometer in Z direction
+Subject	An identifier of the subject who carried out the experiment
+tBodyAccJerkMag-mean()	Mean of all mean measurements of time domain body acceleration magnitude signal  from Accelerometer 
+tBodyAccJerkMag-std()	Mean of all  Standard Deviation measurements of time domain body acceleration magnitude signal from Accelerometer 
+tBodyAccJerk-mean()-X	Mean of all mean measurements of time domain body acceleration jerk signals from Accelerometer in X direction
+tBodyAccJerk-mean()-Y	Mean of all mean measurements of time domain body acceleration jerk signals from Accelerometer in Y direction
+tBodyAccJerk-mean()-Z	Mean of all mean measurements of time domain body acceleration jerk signals from Accelerometer in Z direction
+tBodyAccJerk-std()-X	Mean of all  Standard Deviation measurements of time domain body acceleration jerk signals from Accelerometer in X direction
+tBodyAccJerk-std()-Y	Mean of all  Standard Deviation measurements of time domainbody acceleration jerk signals from Accelerometer in Y direction
+tBodyAccJerk-std()-Z	Mean of all  Standard Deviation measurements of time domain body acceleration jerk signals from Accelerometer in Z direction
+tBodyAccMag-mean()	Mean of all mean measurements of time domain body acceleration magnitude signals from Accelerometer 
+tBodyAccMag-std()	Mean of all  Standard Deviation measurements of time domain body acceleration magnitude signals from Accelerometer 
+tBodyAcc-mean()-X	Mean of all mean measurements of time domain body acceleration signals from Accelerometer in X direction
+tBodyAcc-mean()-Y	Mean of all mean measurements of time domain body acceleration signals from Accelerometer in Y direction
+tBodyAcc-mean()-Z	Mean of all mean measurements of time domain body acceleration signals from Accelerometer in Z direction
+tBodyAcc-std()-X	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Accelerometer in X direction
+tBodyAcc-std()-Y	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Accelerometer in Y direction
+tBodyAcc-std()-Z	Mean of all  Standard Deviation measurements of time domain body acceleration  signals from Accelerometer in Z direction
+tBodyGyroJerkMag-mean()	Mean of all mean measurements of time domain body acceleration magnitude and jerksignals from Gyrometer 
+tBodyGyroJerkMag-std()	Mean of all  Standard Deviation measurements of time domain  body acceleration magnitude and jerk signals from Gyrometer 
+tBodyGyroJerk-mean()-X	Mean of all mean measurements of time domain body acceleration signals from Gyrometer in X direction
+tBodyGyroJerk-mean()-Y	Mean of all mean measurements of time domain body acceleration signals from Gyrometer in Y direction
+tBodyGyroJerk-mean()-Z	Mean of all mean measurements of time domain body acceleration signals from Gyrometer in Z direction
+tBodyGyroJerk-std()-X	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Gyrometer in X direction
+tBodyGyroJerk-std()-Y	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Gyrometer in Y direction
+tBodyGyroJerk-std()-Z	Mean of all  Standard Deviation measurements of time domain body acceleration  signals from Gyrometer in Z direction
+tBodyGyroMag-mean()	Mean of all mean measurements of time domain body acceleration magnitude signals from Gyrometer 
+tBodyGyroMag-std()	Mean of all  Standard Deviation measurements of time domain body acceleration magnitude signals from Gyrometer 
+tBodyGyro-mean()-X	Mean of all mean measurements of time domain body acceleration signals from Gyrometer in X direction
+tBodyGyro-mean()-Y	Mean of all mean measurements of time domain body acceleration signals from Gyrometer in Y direction
+tBodyGyro-mean()-Z	Mean of all mean measurements of time domain  body acceleration signals from Gyrometer in Z direction
+tBodyGyro-std()-X	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Gyrometer in X direction
+tBodyGyro-std()-Y	Mean of all  Standard Deviation measurements of time domain body acceleration signals from Gyrometer in Y direction
+tBodyGyro-std()-Z	Mean of all  Standard Deviation measurements of time domain body acceleration  signals from Gyrometer in Z direction
+tGravityAccMag-mean()	Mean of all mean measurements of time domain gravity acceleration magnitude signals from Accelerometer 
+tGravityAccMag-std()	Mean of all  Standard Deviation measurements of time domain gravity acceleration magnitude signals from Accelerometer 
+tGravityAcc-mean()-X	Mean of all mean measurements of time domain gravity acceleration signals from Accelerometer in X direction
+tGravityAcc-mean()-Y	Mean of all mean measurements of time domain gravity acceleration signals from Accelerometer in Y direction
+tGravityAcc-mean()-Z	Mean of all mean measurements of time domain gravity acceleration signals from Accelerometer in Z direction
+tGravityAcc-std()-X	Mean of all  Standard Deviation measurements of time domain gravity acceleration signals from Accelerometer in X direction
+tGravityAcc-std()-Y	Mean of all  Standard Deviation measurements of time domain gravity acceleration signals from Accelerometer in Y direction
+tGravityAcc-std()-Z	Mean of all  Standard Deviation measurements of time domain gravity acceleration  signals from Accelerometer in Z direction
